@@ -9,4 +9,6 @@ print(salary)
 
 wage = 40
 salary = wage * hours * weeks
-print(salary)
+print("Salary is:", salary)
+
+print("Wassap");
