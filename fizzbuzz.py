@@ -7,4 +7,4 @@ def fizzbuzz(n):
         print("Buzz")
 
 
-fizzbuzz(25)
+fizzbuzz(26)
