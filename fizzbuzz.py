@@ -6,3 +6,6 @@ def fizzbuzz(n):
     else:
         print("Buzz")
 fizzbuzz(26)
+
+print(type("wassap"))
+print(id(fizzbuzz(2)))
