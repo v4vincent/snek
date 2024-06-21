@@ -5,6 +5,4 @@ def fizzbuzz(n):
         print("Fizz")
     else:
         print("Buzz")
-
-
 fizzbuzz(26)
