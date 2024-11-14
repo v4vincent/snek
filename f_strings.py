@@ -21,3 +21,6 @@ def f_strings(string):
 
 f_strings(1)
 f_strings("Vincent")
+
+phone_number = 5052596330
+print(f"({phone_number // 10000000}) {int((phone_number % 10000000)/10000)}-{phone_number % 10000}")
