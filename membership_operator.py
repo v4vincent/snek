@@ -14,3 +14,12 @@ if name in family_list_cap:
     print(f"Yep, {name}, you're a Vermillion")
 else:
     print(f'{name}? Never heard of you.')
+
+dict1 = {
+    1: "Vincent",
+    2: "Nicole",
+    3: "Natalie"
+}
+
+if 1 in dict1:
+    print("It's in da bag")
